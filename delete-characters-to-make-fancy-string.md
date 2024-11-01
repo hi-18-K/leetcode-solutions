@@ -1,19 +1,19 @@
-Problem: https://leetcode.com/problems/delete-characters-to-make-fancy-string
+# Problem: Delete characters to make fancy string [https://leetcode.com/problems/delete-characters-to-make-fancy-string] - EASY
 
-# Delete characters to make fancy string - EASY
+## Intuition
+We need to remove the characters which are same as previous two characters.
 
-# Intuition
+## Approach
+Create an empty answer string. Iterate the input string - if current character is same as previous two characters, skip adding it to the answer string otherwise add the current character to answer string
 
-# Approach
-
-# Complexity
+## Complexity
 - Time complexity:
-<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+O(n)
 
 - Space complexity:
-<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+O(n)
 
-# Code
+## Code
 ```cpp []
 class Solution {
 public:
