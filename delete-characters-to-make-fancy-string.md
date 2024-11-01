@@ -1,4 +1,4 @@
-# Problem: Delete characters to make fancy string [https://leetcode.com/problems/delete-characters-to-make-fancy-string] - EASY
+# Delete characters to make fancy string [Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string) - EASY
 
 ## Intuition
 We need to remove the characters which are same as previous two characters.
