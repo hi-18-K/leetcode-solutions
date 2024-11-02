@@ -11,10 +11,10 @@ Iterate the input string. If we find a space - we have one word to the left of i
 
 ## Complexity
 - Time complexity:
-O(n)
+O(n) - where n is the size of string.
 
 - Space complexity:
-O(n)
+  0 - no additional space is required.
 
 ## Code
 C++ : 
