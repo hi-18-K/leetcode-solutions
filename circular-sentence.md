@@ -14,7 +14,7 @@ Iterate the input string. If we find a space - we have one word to the left of i
 O(n) - where n is the size of string.
 
 - Space complexity:
-  0 - no additional space is required.
+  O(1) - store the size of the string and iterator values.
 
 ## Code
 C++ : 
