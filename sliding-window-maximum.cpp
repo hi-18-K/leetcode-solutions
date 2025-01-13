@@ -1,4 +1,4 @@
-
+### Problem: https://leetcode.com/problems/sliding-window-maximum/description/
 
 # Intuition
 Maintain a monotonically decreasing stack for insertion as we add new element in the sliding window(head) and a queue for deletion of element as we remove one element from the back/tail of sliding window.
